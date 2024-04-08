@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T09:20:53.172Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MbYMGZw2Prid6QVCYO0-" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T09:24:04.740Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tSsG934YdwFkMZuTMQKh" version="24.2.0" type="github">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,23 @@
         <mxCell id="1-Ru4sR9WQq5cSvnAjK9-9" value="scan数据缓存、去畸变预处理，提素滤波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="130" width="122.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1-Ru4sR9WQq5cSvnAjK9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-Ru4sR9WQq5cSvnAjK9-11" target="1-Ru4sR9WQq5cSvnAjK9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1-Ru4sR9WQq5cSvnAjK9-11" value="里程计运动更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="200" width="122.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-Ru4sR9WQq5cSvnAjK9-13" value="里程计运动更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="340" width="122.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-Ru4sR9WQq5cSvnAjK9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-Ru4sR9WQq5cSvnAjK9-16" target="1-Ru4sR9WQq5cSvnAjK9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-Ru4sR9WQq5cSvnAjK9-16" value="是否初始化" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346.25" y="260" width="142.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1-Ru4sR9WQq5cSvnAjK9-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="298" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
