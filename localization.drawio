@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:10:37.404Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xgVw8ALQ6EQYd39QELHF" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:10:52.585Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-BGYDGlKVnSk_KVczME6" version="24.2.0" type="github" pages="2">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="790" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-46" value="连续40帧位姿得分&amp;lt;0.4" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="341.27" y="770" width="152.5" height="65" as="geometry" />
+          <mxGeometry x="341.27" y="777.5" width="152.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-7Lr0fXi4PDcZsyoyd6Y-48" target="-7Lr0fXi4PDcZsyoyd6Y-53">
           <mxGeometry relative="1" as="geometry" />
