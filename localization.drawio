@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:01:40.785Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rt2AotVWlVgGuoBYiA7h" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:03:58.112Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jIVaufRIbvKxEVHtPZML" version="24.2.0" type="github" pages="2">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="790" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,7 +88,10 @@
         <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-10" value="odom和lo融合位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="363.15" y="520" width="108.73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-14" value="输出最终位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-7Lr0fXi4PDcZsyoyd6Y-14" target="-7Lr0fXi4PDcZsyoyd6Y-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-14" value="输出位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="369.37" y="650" width="96.26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-16" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -150,6 +153,15 @@
               <mxPoint x="237" y="665" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-7Lr0fXi4PDcZsyoyd6Y-44" target="-7Lr0fXi4PDcZsyoyd6Y-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-44" value="计算位姿得分" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366.26" y="710" width="102.48" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-7Lr0fXi4PDcZsyoyd6Y-46" value="连续40帧位姿得分&amp;lt;0.4" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="341.27" y="770" width="152.5" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
