@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:16:28.217Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CiZtTeeBFe36so5f5nIR" version="24.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:16:38.034Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Xelfl69ttoZPfs8f0_1g" version="24.2.0" type="github" pages="6">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -918,7 +918,7 @@
         <mxCell id="0lc9ZcJY0qZk2EeqDZPS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0lc9ZcJY0qZk2EeqDZPS-15" target="0lc9ZcJY0qZk2EeqDZPS-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0lc9ZcJY0qZk2EeqDZPS-15" value="触发多帧重定位FinishRotate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0lc9ZcJY0qZk2EeqDZPS-15" value="触发旋转重定位FinishRotate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300.5" y="399" width="120" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="0lc9ZcJY0qZk2EeqDZPS-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
