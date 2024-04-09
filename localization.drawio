@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:40:16.358Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="f7ooh3wZjv314SCVuXJY" version="24.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-09T11:44:51.187Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="b75fW_uXjgEYhWZg-iLz" version="24.2.0" type="github" pages="5">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -595,7 +595,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gMwGEATW9ddxXR3_wfNK" name="第 4 页">
-    <mxGraphModel dx="643" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1317" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -698,6 +698,29 @@
         </mxCell>
         <mxCell id="7jviJ9lQ9j9ZJo7YdX1G-36" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="188" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Y0jPwgfEzBmIhtUskX6y" name="第 5 页">
+    <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fCTAiWnD3fX7-tPF0AVO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZR6yBh_idfHbR3dPu1y2-1" target="fCTAiWnD3fX7-tPF0AVO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR6yBh_idfHbR3dPu1y2-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="17" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCTAiWnD3fX7-tPF0AVO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fCTAiWnD3fX7-tPF0AVO-1" target="fCTAiWnD3fX7-tPF0AVO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fCTAiWnD3fX7-tPF0AVO-1" value="连续40帧数据定位得分&amp;lt;0.4" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="82" width="191" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="fCTAiWnD3fX7-tPF0AVO-3" value="触发多帧重定位StartRotate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="171" width="120" height="39.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
