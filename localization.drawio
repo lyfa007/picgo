@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T05:43:24.924Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="i3P8D_74F5r-P1N6ruOt" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T05:43:39.316Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CmNKH5Ava7Rm0BRt3gvM" version="24.2.0" type="github" pages="2">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1627" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="410" y="358" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1-Ru4sR9WQq5cSvnAjK9-30" value="激光里程计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="325" width="90" height="30" as="geometry" />
+          <mxGeometry x="192.49" y="325" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1-Ru4sR9WQq5cSvnAjK9-32" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="310" width="40" height="30" as="geometry" />
