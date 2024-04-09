@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:54:23.735Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fb6Si24f_Eesvbds4aiU" version="24.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-09T07:08:40.468Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kEjATyL_0-G2MjDNoCvZ" version="24.2.0" type="github" pages="3">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -471,7 +471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rV8KD173fDLXUyrAP6O7" name="第 3 页">
-    <mxGraphModel dx="1383" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,8 +512,70 @@
         <mxCell id="DSuX3nFMa8S8HJSfmqmy-16" value="根据得分计算位姿权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="230" width="135" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-17" target="DSuX3nFMa8S8HJSfmqmy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-17" target="DSuX3nFMa8S8HJSfmqmy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DSuX3nFMa8S8HJSfmqmy-17" value="退化环境？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="290" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-19" target="DSuX3nFMa8S8HJSfmqmy-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-19" value="输出运动更新位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="430" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-21" value="根据权重计算输出匹配位姿和运动更新位姿融合位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-23" target="DSuX3nFMa8S8HJSfmqmy-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-23" target="DSuX3nFMa8S8HJSfmqmy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-23" value="里程计是否丢失" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-27" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="285" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-29" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="398" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-30" value="输出匹配位姿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-32" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="360" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-30" target="DSuX3nFMa8S8HJSfmqmy-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="253" y="480" />
+              <mxPoint x="405" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-21" target="DSuX3nFMa8S8HJSfmqmy-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="440" as="sourcePoint" />
+            <mxPoint x="420" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="480" />
+              <mxPoint x="405" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
