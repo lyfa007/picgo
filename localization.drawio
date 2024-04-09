@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:40:19.172Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WTlkA7N5_C1C0ud0bhp8" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:42:08.383Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lWqsc9x_ue_jPYhfX5H6" version="24.2.0" type="github" pages="7">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1091,17 +1091,31 @@
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="471" y="256" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-16" target="1aK1M_9Q_HvMClUfBw8Z-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="456.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-16" value="连续三次距离误差大于&lt;div&gt;2m&lt;span style=&quot;background-color: initial;&quot;&gt;或角度误差大于30度&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.5" y="344" width="197" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="456.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-19" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="424" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-16" target="1aK1M_9Q_HvMClUfBw8Z-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="386" as="sourcePoint" />
+            <mxPoint x="449" y="503" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="592" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-21" value="连续三次距离误差大于&lt;div&gt;0.5m&lt;span style=&quot;background-color: initial;&quot;&gt;或角度误差大于20度&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="456.25" width="197" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="502" y="359" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
