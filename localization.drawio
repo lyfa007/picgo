@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:47:40.860Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dbbtzV72v3shvHKGG4hD" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:51:39.127Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="E4Nkcgb3UXYguAuA_AZz" version="24.2.0" type="github" pages="7">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1049,7 +1049,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rwzQ7mDs-ATr5cOe-mH_" name="第 7 页">
-    <mxGraphModel dx="461" dy="264" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="553" dy="317" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1114,6 +1114,9 @@
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-21" target="1aK1M_9Q_HvMClUfBw8Z-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-21" target="1aK1M_9Q_HvMClUfBw8Z-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-21" value="连续三次距离误差大于&lt;div&gt;0.5m&lt;span style=&quot;background-color: initial;&quot;&gt;或角度误差大于20度&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.5" y="456.25" width="197" height="80" as="geometry" />
         </mxCell>
@@ -1147,6 +1150,25 @@
             <mxPoint x="465" y="626" as="targetPoint" />
             <Array as="points">
               <mxPoint x="592" y="762" />
+              <mxPoint x="407" y="764" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-32" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="402" y="534" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-33" value="不更新当前位姿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="483.37" width="103.5" height="25.75" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-35" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="466.25" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-33" target="1aK1M_9Q_HvMClUfBw8Z-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="616" as="sourcePoint" />
+            <mxPoint x="498" y="566" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="763" />
               <mxPoint x="407" y="764" />
             </Array>
           </mxGeometry>
