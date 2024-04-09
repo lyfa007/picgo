@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:45:54.721Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="omgUjs6ngh1ANIc95SJM" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:47:40.860Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dbbtzV72v3shvHKGG4hD" version="24.2.0" type="github" pages="7">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1049,7 +1049,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rwzQ7mDs-ATr5cOe-mH_" name="第 7 页">
-    <mxGraphModel dx="1383" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="461" dy="264" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1126,8 +1126,30 @@
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-23" value="根据当前定位得分分配二维码位姿和当前位姿权重" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334.5" y="567" width="145" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-25" target="1aK1M_9Q_HvMClUfBw8Z-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-25" value="得分&amp;gt;0.6,定位位姿占60%权重&lt;div&gt;得分&amp;lt;0.4,定位位姿占30%权重&lt;br&gt;其他得分自适应计算权重&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320.5" y="639" width="172.5" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-27" target="1aK1M_9Q_HvMClUfBw8Z-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-27" value="依据权重计算融合位姿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343.88" y="725" width="126.25" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-29" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.75" y="783" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-11" target="1aK1M_9Q_HvMClUfBw8Z-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="676" as="sourcePoint" />
+            <mxPoint x="465" y="626" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="592" y="762" />
+              <mxPoint x="407" y="764" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
