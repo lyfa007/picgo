@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T02:16:54.236Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CkCjd20RfugzPmqrjcVr" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T02:21:42.825Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ByRvAlbJM5XlURETVfaI" version="24.2.0" type="github" pages="2">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fofw4nyurcLWQTFMPqLW-5" value="扫描匹配（粗、精匹配）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="160" width="130" height="30" as="geometry" />
+          <mxGeometry x="335" y="170" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fofw4nyurcLWQTFMPqLW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fofw4nyurcLWQTFMPqLW-9" target="Fofw4nyurcLWQTFMPqLW-10">
           <mxGeometry relative="1" as="geometry" />
@@ -120,13 +120,13 @@
           <mxGeometry x="320" y="220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fofw4nyurcLWQTFMPqLW-10" value="直接使用初始化位姿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="235" width="110" height="30" as="geometry" />
+          <mxGeometry x="510" y="237.5" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Fofw4nyurcLWQTFMPqLW-12" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="218" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fofw4nyurcLWQTFMPqLW-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="Fofw4nyurcLWQTFMPqLW-13" value="计算匹配位姿和初始化位姿距离、角度差" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fofw4nyurcLWQTFMPqLW-15" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="280" width="40" height="30" as="geometry" />
