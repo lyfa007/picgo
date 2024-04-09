@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:42:08.383Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lWqsc9x_ue_jPYhfX5H6" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:45:54.721Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="omgUjs6ngh1ANIc95SJM" version="24.2.0" type="github" pages="7">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1111,11 +1111,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-21" target="1aK1M_9Q_HvMClUfBw8Z-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-21" value="连续三次距离误差大于&lt;div&gt;0.5m&lt;span style=&quot;background-color: initial;&quot;&gt;或角度误差大于20度&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.5" y="456.25" width="197" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="502" y="359" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-23" target="1aK1M_9Q_HvMClUfBw8Z-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-23" value="根据当前定位得分分配二维码位姿和当前位姿权重" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334.5" y="567" width="145" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-25" value="得分&amp;gt;0.6,定位位姿占60%权重&lt;div&gt;得分&amp;lt;0.4,定位位姿占30%权重&lt;br&gt;其他得分自适应计算权重&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.5" y="639" width="172.5" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
