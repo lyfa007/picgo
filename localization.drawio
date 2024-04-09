@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:17:00.020Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PeJ9SFrTmuBuLrwcDaaC" version="24.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:32:46.309Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JiS-3iRXW0PNkUCkAswC" version="24.2.0" type="github" pages="7">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1044,6 +1044,29 @@
             <mxPoint x="399" y="433" as="sourcePoint" />
             <mxPoint x="449" y="383" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rwzQ7mDs-ATr5cOe-mH_" name="第 7 页">
+    <mxGraphModel dx="1383" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-1" target="1aK1M_9Q_HvMClUfBw8Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="29" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-2" target="1aK1M_9Q_HvMClUfBw8Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-2" value="是否收到二维码位姿" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="91" width="142" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-4" value="计算当前位姿和二维码位姿差值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="181" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
