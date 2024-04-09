@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:51:45.697Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IYIQiFLe7ZxDubdxcQiM" version="24.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:53:50.018Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="htZfjnzYfqJ8lC5bv606" version="24.2.0" type="github" pages="3">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -497,16 +497,17 @@
         <mxCell id="DSuX3nFMa8S8HJSfmqmy-9" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="118" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DSuX3nFMa8S8HJSfmqmy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSuX3nFMa8S8HJSfmqmy-12">
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="190" as="sourcePoint" />
+            <mxPoint x="405" y="230" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DSuX3nFMa8S8HJSfmqmy-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSuX3nFMa8S8HJSfmqmy-14" value="计算匹配位姿和运动更新位姿及得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="148" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-16" value="根据得分计算位姿权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="230" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
