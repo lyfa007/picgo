@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:38:14.421Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="X78tsU2cnr2FAbxEH9Oi" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:39:52.362Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aZRPfulqLVUTrwNQ5EHD" version="24.2.0" type="github" pages="7">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1086,13 +1086,13 @@
           <mxGeometry x="405" y="308" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-11" value="将二维码位姿更新为当前位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="258.25" width="101" height="40.5" as="geometry" />
+          <mxGeometry x="541" y="476" width="101" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="471" y="256" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-15" value="连续三次距离误差大于2m或角度误差大于30度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="345" width="120" height="60" as="geometry" />
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-16" value="连续三次距离误差大于&lt;div&gt;2m&lt;span style=&quot;background-color: initial;&quot;&gt;或角度误差大于30度&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="344" width="197" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
