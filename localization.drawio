@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:35:16.339Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="nB3Sbg4POssYW-yNTmx2" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:38:14.421Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="X78tsU2cnr2FAbxEH9Oi" version="24.2.0" type="github" pages="7">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1068,20 +1068,19 @@
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-4" target="1aK1M_9Q_HvMClUfBw8Z-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-4" value="计算当前位姿和二维码位姿差值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="181" width="120" height="40" as="geometry" />
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-4" value="计算当前位姿和二维码位姿距离差和角度差值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345.5" y="181" width="123" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-6" target="1aK1M_9Q_HvMClUfBw8Z-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="344" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1aK1M_9Q_HvMClUfBw8Z-6" target="1aK1M_9Q_HvMClUfBw8Z-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-6" value="是否为电梯码" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354.5" y="252" width="105" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="347" y="344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-10" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="308" width="30" height="26" as="geometry" />
@@ -1091,6 +1090,9 @@
         </mxCell>
         <mxCell id="1aK1M_9Q_HvMClUfBw8Z-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="471" y="256" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1aK1M_9Q_HvMClUfBw8Z-15" value="连续三次距离误差大于2m或角度误差大于30度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="345" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
