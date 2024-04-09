@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:16:38.034Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Xelfl69ttoZPfs8f0_1g" version="24.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-09T12:17:00.020Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PeJ9SFrTmuBuLrwcDaaC" version="24.2.0" type="github" pages="6">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -875,7 +875,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rGwTixA1Ot2e4lb4pM1e" name="第 6 页">
-    <mxGraphModel dx="1383" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -886,6 +886,9 @@
         </mxCell>
         <mxCell id="0lc9ZcJY0qZk2EeqDZPS-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308" y="17" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0lc9ZcJY0qZk2EeqDZPS-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0lc9ZcJY0qZk2EeqDZPS-6" target="0lc9ZcJY0qZk2EeqDZPS-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0lc9ZcJY0qZk2EeqDZPS-6" value="触发旋转重定位StartRotate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300.5" y="84" width="120" height="39.5" as="geometry" />
@@ -1035,6 +1038,12 @@
         </mxCell>
         <mxCell id="0lc9ZcJY0qZk2EeqDZPS-45" value="控制机器旋转一圈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300.5" y="158" width="120" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0lc9ZcJY0qZk2EeqDZPS-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0lc9ZcJY0qZk2EeqDZPS-45" target="0lc9ZcJY0qZk2EeqDZPS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="433" as="sourcePoint" />
+            <mxPoint x="449" y="383" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
