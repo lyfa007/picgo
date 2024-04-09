@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:45:10.169Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DZJe-JKf4SnJujl6B0pW" version="24.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:48:14.463Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9t-ENMQ4jU8_ci_sjTTy" version="24.2.0" type="github" pages="3">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1064" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -471,10 +471,41 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rV8KD173fDLXUyrAP6O7" name="第 3 页">
-    <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-1" target="DSuX3nFMa8S8HJSfmqmy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="572.5" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-2" value="是否使能退化检测" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="331.25" y="70" width="147.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-9" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="118" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSuX3nFMa8S8HJSfmqmy-11" target="DSuX3nFMa8S8HJSfmqmy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-11" value="退化环境？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="148" width="145" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="DSuX3nFMa8S8HJSfmqmy-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="261" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
