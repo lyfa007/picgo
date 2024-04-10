@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:47:15.062Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8gEnKaskUCZWS9c3PF6P" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:50:37.546Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="82VOIPRK8va4K5OW-C0O" version="24.2.0" type="github" pages="8">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1210,6 +1210,9 @@
         <mxCell id="DfHesQUS9gKe84ZKUP8Q-4" value="当前位姿作为激光里程计位姿初值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368" y="170" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DfHesQUS9gKe84ZKUP8Q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DfHesQUS9gKe84ZKUP8Q-5" target="DfHesQUS9gKe84ZKUP8Q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DfHesQUS9gKe84ZKUP8Q-5" value="是否运动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385.5" y="240" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1224,6 +1227,15 @@
         </mxCell>
         <mxCell id="DfHesQUS9gKe84ZKUP8Q-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="210" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DfHesQUS9gKe84ZKUP8Q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DfHesQUS9gKe84ZKUP8Q-12" target="DfHesQUS9gKe84ZKUP8Q-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DfHesQUS9gKe84ZKUP8Q-12" value="更新激光里程计位姿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DfHesQUS9gKe84ZKUP8Q-14" value="激光里程计位姿和里程计运动更新位姿融合" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="370" width="124.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
