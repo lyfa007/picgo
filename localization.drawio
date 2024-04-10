@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:52:41.315Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="EFVoCHq-1DFMOKXX7Ur8" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T03:06:20.161Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_hXoTb1kHiHyCuvw2P-k" version="24.2.0" type="github" pages="8">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1242,14 +1242,14 @@
             <mxPoint x="425" y="452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ude62Y2P1gnvHJiom-Y-2" value="计算匹配位姿和运动更新位姿及得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6ude62Y2P1gnvHJiom-Y-2" value="计算里程计位姿和运动更新位姿及得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="370" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="6ude62Y2P1gnvHJiom-Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ude62Y2P1gnvHJiom-Y-4" target="6ude62Y2P1gnvHJiom-Y-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6ude62Y2P1gnvHJiom-Y-4" value="根据得分计算位姿权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="452" width="135" height="30" as="geometry" />
+        <mxCell id="6ude62Y2P1gnvHJiom-Y-4" value="根据得分计算分配位姿权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349.25" y="452" width="152.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ude62Y2P1gnvHJiom-Y-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ude62Y2P1gnvHJiom-Y-7" target="6ude62Y2P1gnvHJiom-Y-10">
           <mxGeometry relative="1" as="geometry" />
@@ -1315,6 +1315,9 @@
               <mxPoint x="425" y="702" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6ude62Y2P1gnvHJiom-Y-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="278" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
