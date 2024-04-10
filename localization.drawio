@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T03:31:01.572Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="l_TgzeehobzaynHr79AV" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T03:31:59.751Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6KtUXxNJHczu5lHDphGV" version="24.2.0" type="github" pages="8">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1192,7 +1192,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L4AUz6tOVeA-n8vKY6RE" name="第 8 页">
-    <mxGraphModel dx="223" dy="122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1317" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1345,6 +1345,17 @@
         </mxCell>
         <mxCell id="6ude62Y2P1gnvHJiom-Y-38" value="输出运动更新位姿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="650" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ude62Y2P1gnvHJiom-Y-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DfHesQUS9gKe84ZKUP8Q-5" target="6ude62Y2P1gnvHJiom-Y-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="550" as="sourcePoint" />
+            <mxPoint x="410" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="260" />
+              <mxPoint x="540" y="720" />
+              <mxPoint x="425" y="720" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
