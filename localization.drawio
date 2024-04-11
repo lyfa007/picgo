@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T02:33:34.317Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jJYPvzZXUBCHW_F0n1K1" version="24.2.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-11T02:37:09.521Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8lQ_gn3B8lpvz5SxehKk" version="24.2.3" type="github" pages="9">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1383,13 +1383,19 @@
           <mxGeometry x="50" y="111" width="91" height="39" as="geometry" />
         </mxCell>
         <mxCell id="AQeVT9hpR-boNZIDzgOv-2" value="激光数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="241" width="91" height="39" as="geometry" />
+          <mxGeometry x="50" y="245" width="91" height="39" as="geometry" />
         </mxCell>
         <mxCell id="AQeVT9hpR-boNZIDzgOv-3" value="IMU数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="371" width="91" height="39" as="geometry" />
         </mxCell>
         <mxCell id="AQeVT9hpR-boNZIDzgOv-4" value="运动更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="192" y="111" width="91" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="AQeVT9hpR-boNZIDzgOv-5" value="激光里程计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="179" width="91" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="AQeVT9hpR-boNZIDzgOv-6" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="243" width="91" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
