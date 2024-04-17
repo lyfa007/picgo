@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T05:41:45.805Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sCrXVK1YhX_kCITY_mf_" version="24.2.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-17T05:42:36.700Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BmHBvmVSOtvDlaZKkLzb" version="24.2.3" type="github" pages="10">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1555,8 +1555,8 @@
         <mxCell id="KsEfvqvDpWr3vzzxR_2K-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KsEfvqvDpWr3vzzxR_2K-4" target="KsEfvqvDpWr3vzzxR_2K-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KsEfvqvDpWr3vzzxR_2K-4" value="获取里程计位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="356.25" y="150" width="102.5" height="35" as="geometry" />
+        <mxCell id="KsEfvqvDpWr3vzzxR_2K-4" value="获取里程计增量位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346.25" y="150" width="123.75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KsEfvqvDpWr3vzzxR_2K-6" value="添加scan" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="220" width="102.5" height="35" as="geometry" />
