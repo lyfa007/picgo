@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T07:11:42.539Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pQEICjx_Cjd8Yrvx1XEZ" version="24.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-04-17T07:15:03.097Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iU7rvAbDkZssKESUjX-s" version="24.2.3" type="github" pages="11">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1591,8 +1591,14 @@
         <mxCell id="gPNntr3aoMeCoZKLKo9j-4" value="更新局部地图和位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="346.25" y="280" width="123.75" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="gPNntr3aoMeCoZKLKo9j-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gPNntr3aoMeCoZKLKo9j-7" target="gPNntr3aoMeCoZKLKo9j-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gPNntr3aoMeCoZKLKo9j-7" value="回环检测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gPNntr3aoMeCoZKLKo9j-9" value="是否检测到回环" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.25" y="590" width="112.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
