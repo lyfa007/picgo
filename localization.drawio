@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T07:08:38.036Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="P4G1AXQ3kTZXsKGRUPfZ" version="24.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-04-17T07:10:38.098Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Q7XObq51Vo8i09xPyLUe" version="24.2.3" type="github" pages="11">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1577,7 +1577,7 @@
           <mxGeometry x="346.26" y="10" width="123.75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="gPNntr3aoMeCoZKLKo9j-1" value="添加关键帧，点和边" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="440" width="120" height="30" as="geometry" />
+          <mxGeometry x="347.5" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gPNntr3aoMeCoZKLKo9j-3" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="397.5" width="40" height="30" as="geometry" />
@@ -1587,6 +1587,9 @@
         </mxCell>
         <mxCell id="gPNntr3aoMeCoZKLKo9j-4" value="更新局部地图和位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="346.25" y="280" width="123.75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gPNntr3aoMeCoZKLKo9j-7" value="回环检测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346.25" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
