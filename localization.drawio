@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T02:41:19.499Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mq3KtTg0LQiRFWAS7-dW" version="24.2.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-19T02:46:22.944Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iBOBn3kQ7y5b47WyL4S5" version="24.2.3" type="github" pages="12">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1848,7 +1848,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9t0bFrmXjyo9MN09oAIA" name="第 12 页">
-    <mxGraphModel dx="1383" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1932,7 +1932,7 @@
         <mxCell id="qNKkvY_KN3FrcGrre3Io-23" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="390" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qNKkvY_KN3FrcGrre3Io-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNKkvY_KN3FrcGrre3Io-26" target="qNKkvY_KN3FrcGrre3Io-28">
+        <mxCell id="qNKkvY_KN3FrcGrre3Io-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNKkvY_KN3FrcGrre3Io-26" target="qNKkvY_KN3FrcGrre3Io-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qNKkvY_KN3FrcGrre3Io-26" value="保存房门位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -1942,22 +1942,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qNKkvY_KN3FrcGrre3Io-28" value="完成建图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="540" width="93.12" height="35" as="geometry" />
+          <mxGeometry x="350.3899999999999" y="633" width="93.12" height="35" as="geometry" />
         </mxCell>
         <mxCell id="qNKkvY_KN3FrcGrre3Io-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNKkvY_KN3FrcGrre3Io-30" target="qNKkvY_KN3FrcGrre3Io-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qNKkvY_KN3FrcGrre3Io-30" value="所有房间点保存至json文件中并上传至上位机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="332.43" y="690" width="129.68" height="40" as="geometry" />
+          <mxGeometry x="331.40999999999997" y="792" width="129.68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qNKkvY_KN3FrcGrre3Io-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNKkvY_KN3FrcGrre3Io-33" target="qNKkvY_KN3FrcGrre3Io-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qNKkvY_KN3FrcGrre3Io-33" value="保存地图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="620" width="94.53" height="37.5" as="geometry" />
+          <mxGeometry x="348.9799999999999" y="711" width="94.53" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="qNKkvY_KN3FrcGrre3Io-36" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352.27" y="770" width="90" height="30" as="geometry" />
+          <mxGeometry x="351.2499999999999" y="872" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qNKkvY_KN3FrcGrre3Io-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNKkvY_KN3FrcGrre3Io-38" target="qNKkvY_KN3FrcGrre3Io-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNKkvY_KN3FrcGrre3Io-38" value="添加至关键帧&lt;div&gt;位姿优化&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="336.25" y="542" width="120" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
