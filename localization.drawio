@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T02:29:35.211Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Nr0ycjjHMkdMZW89KtBn" version="24.3.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-06T08:00:08.274Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vqBWAcTnBExtUZX9Qpu7" version="24.4.13" type="github" pages="13">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1964,6 +1964,41 @@
         </mxCell>
         <mxCell id="qNKkvY_KN3FrcGrre3Io-38" value="添加至关键帧&lt;div&gt;位姿优化&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="336.25" y="542" width="120" height="44" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZiWG9HzvZcFbA2wDJ46g" name="第 13 页">
+    <mxGraphModel dx="1383" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7o4FP6IjXojf0A3ehbhE-1" target="7o4FP6IjXojf0A3ehbhE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-1" value="16：16：31机器开始收到下桩任务&lt;div&gt;（定位正常）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7o4FP6IjXojf0A3ehbhE-2" target="7o4FP6IjXojf0A3ehbhE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-2" value="16：16：31之前机器在桩&lt;div&gt;（定位正常）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7o4FP6IjXojf0A3ehbhE-4" target="7o4FP6IjXojf0A3ehbhE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-4" value="16：16：43机器开始收到前往电梯口任务&lt;div&gt;（定位正常）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7o4FP6IjXojf0A3ehbhE-6" target="7o4FP6IjXojf0A3ehbhE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-6" value="前往乘梯点过程定位得分一直很低&lt;div&gt;（定位异常）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7o4FP6IjXojf0A3ehbhE-8" value="bag开始记录到电梯口已经定位偏&lt;div&gt;（定位异常）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
