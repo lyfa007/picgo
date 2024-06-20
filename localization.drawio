@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T12:41:54.622Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DLbH6KhH1V-6DQqEX8L9" version="24.5.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-06-20T12:42:39.997Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="A8HxSJUkyZdxGHzCSOFT" version="24.5.3" type="github" pages="16">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2387,7 +2387,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1h85XvN4kdXwrRwCWpn8" name="第 16 页">
-    <mxGraphModel dx="675" dy="370" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="564" dy="310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2491,6 +2491,14 @@
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MrdqeAQG5_k8rVTnPfZV-44" target="MrdqeAQG5_k8rVTnPfZV-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdqeAQG5_k8rVTnPfZV-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MrdqeAQG5_k8rVTnPfZV-44" target="MrdqeAQG5_k8rVTnPfZV-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="558" />
+              <mxPoint x="179" y="787" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-44" value="是否触发重定位预警" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="292.88" y="535" width="155.25" height="47" as="geometry" />
