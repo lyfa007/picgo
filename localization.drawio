@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T05:56:44.312Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="O4879jndiDUt4sJ6gqic" version="24.5.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-06-20T05:58:14.201Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IvZLLyUNpC040TeNnVZG" version="24.5.3" type="github" pages="14">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2147,6 +2147,14 @@
         <mxCell id="atowhifL2LKRHhDlehCn-81" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="326" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="atowhifL2LKRHhDlehCn-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-84" target="atowhifL2LKRHhDlehCn-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="355" />
+              <mxPoint x="90" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-84" value="失败计数清零&lt;div&gt;重新计数&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="335" width="87.5" height="40" as="geometry" />
         </mxCell>
@@ -2165,7 +2173,7 @@
         <mxCell id="atowhifL2LKRHhDlehCn-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-89" target="atowhifL2LKRHhDlehCn-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="atowhifL2LKRHhDlehCn-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-89" target="atowhifL2LKRHhDlehCn-84">
+        <mxCell id="atowhifL2LKRHhDlehCn-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-89" target="atowhifL2LKRHhDlehCn-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-89" value="重定位是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
