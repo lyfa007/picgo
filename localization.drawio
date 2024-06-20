@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T01:06:30.959Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HptLiuQI09KeM5twmLDN" version="24.5.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-06-20T01:08:18.919Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="W39FMqEKAcAKGw9N7RWV" version="24.5.3" type="github" pages="14">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2020,7 +2020,7 @@
         <mxCell id="atowhifL2LKRHhDlehCn-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-4" target="atowhifL2LKRHhDlehCn-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="atowhifL2LKRHhDlehCn-4" value="是否触发单帧&lt;div&gt;或者&lt;span style=&quot;background-color: initial;&quot;&gt;旋转重定位&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="atowhifL2LKRHhDlehCn-4" value="是否触发单帧&lt;div&gt;或&lt;span style=&quot;background-color: initial;&quot;&gt;旋转重定位&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-6" target="atowhifL2LKRHhDlehCn-20">
