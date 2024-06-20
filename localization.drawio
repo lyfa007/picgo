@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T06:09:32.270Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fc--yHiRhRRFosW4evYR" version="24.5.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-06-20T06:12:38.967Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6CVcKqQl2Vth9LSoODQN" version="24.5.3" type="github" pages="14">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2077,7 +2077,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-33" value="是否旋转重定位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="190" width="120" height="50" as="geometry" />
+          <mxGeometry x="560" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="188" width="40" height="30" as="geometry" />
@@ -2106,8 +2106,8 @@
         <mxCell id="atowhifL2LKRHhDlehCn-62" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="326" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="atowhifL2LKRHhDlehCn-67" value="是否先触发" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="258" width="120" height="50" as="geometry" />
+        <mxCell id="atowhifL2LKRHhDlehCn-67" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="272" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-70" target="atowhifL2LKRHhDlehCn-16">
           <mxGeometry relative="1" as="geometry" />
