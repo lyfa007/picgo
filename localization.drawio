@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T05:54:30.479Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Mkroi1k4J7UfZHovFDws" version="24.5.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-06-20T05:56:06.903Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="n-cgiQBHi9pg5v8BXx9R" version="24.5.3" type="github" pages="14">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2077,7 +2077,7 @@
           <mxGeometry x="630" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="188" width="40" height="30" as="geometry" />
+          <mxGeometry x="160" y="188" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-40" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="238" width="40" height="30" as="geometry" />
@@ -2144,11 +2144,17 @@
         <mxCell id="atowhifL2LKRHhDlehCn-81" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="326" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="atowhifL2LKRHhDlehCn-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-84" target="atowhifL2LKRHhDlehCn-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-84" value="失败计数清零&lt;div&gt;重新计数&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="346" width="87.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="atowhifL2LKRHhDlehCn-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="atowhifL2LKRHhDlehCn-20" target="atowhifL2LKRHhDlehCn-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="440" />
+              <mxPoint x="90" y="615" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-20" value="是否连续失败5次" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193.75" y="410" width="122.5" height="60" as="geometry" />
@@ -2167,6 +2173,9 @@
         </mxCell>
         <mxCell id="atowhifL2LKRHhDlehCn-97" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="atowhifL2LKRHhDlehCn-99" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
