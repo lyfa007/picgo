@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T08:50:43.668Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="z9ILHwJCXfo6G7Ykv12q" version="24.5.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-06-20T11:31:44.992Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3tVKtiq-NBrEh8c1itpI" version="24.5.3" type="github" pages="16">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2401,7 +2401,7 @@
           <mxGeometry x="335" y="669" width="85" height="32" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-3" value="机器是否运动" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330.5" y="139" width="80" height="80" as="geometry" />
+          <mxGeometry x="311.75" y="119" width="117.5" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
