@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T09:03:55.660Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CgXSTdlfIB_5SJquPuAg" version="24.6.4" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-07-09T09:04:17.799Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5FjLCwjo9U83SGYg4kn_" version="24.6.4" type="github" pages="17">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2614,7 +2614,7 @@
         <mxCell id="rZm35AjE8txmL0ldQQ1v-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rZm35AjE8txmL0ldQQ1v-11" target="rZm35AjE8txmL0ldQQ1v-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rZm35AjE8txmL0ldQQ1v-11" value="距离是否大于0.5" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rZm35AjE8txmL0ldQQ1v-11" value="距离是否大于0.8m" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="300" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rZm35AjE8txmL0ldQQ1v-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
