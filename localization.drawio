@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T12:20:09.193Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bn0pXkJ062zKslw9YiLC" version="24.6.4" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-07-10T12:30:12.827Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ok4dni92kXaqRN-RYVuo" version="24.6.4" type="github" pages="17">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2386,7 +2386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1h85XvN4kdXwrRwCWpn8" name="环境变化预警">
-    <mxGraphModel dx="790" dy="434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2420,7 +2420,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-14" value="记录当前位置" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="309.25" y="656" width="120" height="33.5" as="geometry" />
+          <mxGeometry x="308.88" y="577" width="120" height="23" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-16" target="MrdqeAQG5_k8rVTnPfZV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2483,20 +2483,20 @@
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="363" y="407" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MrdqeAQG5_k8rVTnPfZV-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-44" target="MrdqeAQG5_k8rVTnPfZV-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-44" target="MrdqeAQG5_k8rVTnPfZV-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RY6plKlMuj3YlhBRM0Z_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrdqeAQG5_k8rVTnPfZV-44" target="QhqzzpSfkgcuzc0EcMVR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-44" value="是否触发重定位预警" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="291.25" y="576" width="155.25" height="47" as="geometry" />
+          <mxGeometry x="291.25" y="720" width="155.25" height="47" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-46" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="367" y="494" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-51" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="370" y="623" width="30" height="26" as="geometry" />
+          <mxGeometry x="370" y="767" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-54" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="436.13" y="345" width="30" height="26" as="geometry" />
@@ -2512,7 +2512,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-61" value="上报重定位预警" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="475" y="582.75" width="89" height="33.5" as="geometry" />
+          <mxGeometry x="466.94" y="860.5" width="89" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-65" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="441" y="574" width="30" height="26" as="geometry" />
@@ -2528,9 +2528,6 @@
         <mxCell id="Yfr7wrryfCku3QvRl2NR-1" value="位姿和得分数据清空" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460.51" y="209.13" width="116" height="24.75" as="geometry" />
         </mxCell>
-        <mxCell id="Yfr7wrryfCku3QvRl2NR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yfr7wrryfCku3QvRl2NR-6" target="MrdqeAQG5_k8rVTnPfZV-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Yfr7wrryfCku3QvRl2NR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Yfr7wrryfCku3QvRl2NR-6" target="MrdqeAQG5_k8rVTnPfZV-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2539,22 +2536,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RY6plKlMuj3YlhBRM0Z_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yfr7wrryfCku3QvRl2NR-6" target="MrdqeAQG5_k8rVTnPfZV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Yfr7wrryfCku3QvRl2NR-6" value="位姿和得分数据清空" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="308.88" y="527" width="120" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="QhqzzpSfkgcuzc0EcMVR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhqzzpSfkgcuzc0EcMVR-1" target="QhqzzpSfkgcuzc0EcMVR-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QhqzzpSfkgcuzc0EcMVR-1" target="MrdqeAQG5_k8rVTnPfZV-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="242" y="743" />
+              <mxPoint x="242" y="659" />
               <mxPoint x="242" y="975" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RY6plKlMuj3YlhBRM0Z_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhqzzpSfkgcuzc0EcMVR-1" target="MrdqeAQG5_k8rVTnPfZV-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-1" value="当前位置2m范围内&lt;div&gt;是否超过&lt;span style=&quot;background-color: initial;&quot;&gt;5次预警&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="271.63" y="718" width="194.5" height="49.75" as="geometry" />
+          <mxGeometry x="271.63" y="634" width="194.5" height="49.75" as="geometry" />
         </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhqzzpSfkgcuzc0EcMVR-3" target="MrdqeAQG5_k8rVTnPfZV-16">
           <mxGeometry relative="1" as="geometry" />
@@ -2563,10 +2563,10 @@
           <mxGeometry x="308.88" y="812" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-6" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="767.75" width="30" height="26" as="geometry" />
+          <mxGeometry x="370" y="683.75" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-9" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="241.63" y="718" width="30" height="26" as="geometry" />
+          <mxGeometry x="242.44" y="634" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
