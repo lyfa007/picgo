@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T12:57:44.216Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q8bIWEIRjXZHfnfjAMQh" version="24.6.4" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-07-10T13:04:25.596Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L6jFl1ew5bNhqRhFGS71" version="24.6.4" type="github" pages="17">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2419,8 +2419,8 @@
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrdqeAQG5_k8rVTnPfZV-14" target="QhqzzpSfkgcuzc0EcMVR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MrdqeAQG5_k8rVTnPfZV-14" value="计算当前位置和所有位姿之间距离" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310.5" y="578" width="118.5" height="36" as="geometry" />
+        <mxCell id="MrdqeAQG5_k8rVTnPfZV-14" value="计算当前位置和所有预警位姿之间距离" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="265.62" y="578" width="208.25" height="27" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-16" target="MrdqeAQG5_k8rVTnPfZV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2441,10 +2441,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-30" value="开始计算运动距离和得分" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="303.25" y="279" width="134.5" height="25" as="geometry" />
+          <mxGeometry x="303.25" y="272" width="134.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-32" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="370" y="246" width="30" height="26" as="geometry" />
+          <mxGeometry x="370" y="241" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-35" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="426" y="190" width="30" height="26" as="geometry" />
@@ -2455,7 +2455,7 @@
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-39" target="MrdqeAQG5_k8rVTnPfZV-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="359" />
+              <mxPoint x="580" y="340" />
               <mxPoint x="580" y="975" />
             </Array>
           </mxGeometry>
@@ -2464,12 +2464,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-39" value="运动距离超5m" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="302.44" y="341" width="136.12" height="36" as="geometry" />
+          <mxGeometry x="302.44" y="322" width="136.12" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="MrdqeAQG5_k8rVTnPfZV-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-41" target="MrdqeAQG5_k8rVTnPfZV-2" edge="1">
+        <mxCell id="MrdqeAQG5_k8rVTnPfZV-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-41" target="MrdqeAQG5_k8rVTnPfZV-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="455" />
+              <mxPoint x="580" y="419" />
               <mxPoint x="580" y="975" />
             </Array>
           </mxGeometry>
@@ -2478,10 +2478,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-41" value="得分低于0.4占比&lt;div&gt;大于80%&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="302.44" y="428" width="136.12" height="55" as="geometry" />
+          <mxGeometry x="302.44" y="391" width="136.12" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="396" y="381" width="30" height="26" as="geometry" />
+          <mxGeometry x="370" y="360" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-44" target="MrdqeAQG5_k8rVTnPfZV-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2493,16 +2493,16 @@
           <mxGeometry x="292.87" y="720" width="155.25" height="47" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-46" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="366" y="478" width="30" height="26" as="geometry" />
+          <mxGeometry x="370" y="446" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-51" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="767" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-54" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="441" y="332" width="30" height="26" as="geometry" />
+          <mxGeometry x="437.75" y="310" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-57" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="437.75" y="432" width="30" height="26" as="geometry" />
+          <mxGeometry x="441" y="368" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MrdqeAQG5_k8rVTnPfZV-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MrdqeAQG5_k8rVTnPfZV-61" target="MrdqeAQG5_k8rVTnPfZV-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2531,16 +2531,16 @@
         <mxCell id="Yfr7wrryfCku3QvRl2NR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Yfr7wrryfCku3QvRl2NR-6" target="MrdqeAQG5_k8rVTnPfZV-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="261" y="539" />
-              <mxPoint x="261" y="221" />
+              <mxPoint x="261" y="492" />
+              <mxPoint x="261" y="222" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RY6plKlMuj3YlhBRM0Z_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yfr7wrryfCku3QvRl2NR-6" target="MrdqeAQG5_k8rVTnPfZV-14">
+        <mxCell id="RY6plKlMuj3YlhBRM0Z_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yfr7wrryfCku3QvRl2NR-6" target="RY6plKlMuj3YlhBRM0Z_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yfr7wrryfCku3QvRl2NR-6" value="位姿和得分数据清空" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="309.75" y="514" width="120" height="23" as="geometry" />
+          <mxGeometry x="309.75" y="480" width="120" height="23" as="geometry" />
         </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QhqzzpSfkgcuzc0EcMVR-1" target="MrdqeAQG5_k8rVTnPfZV-2">
           <mxGeometry relative="1" as="geometry">
@@ -2554,7 +2554,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-1" value="当前位置2m范围内&lt;div&gt;是否超过&lt;span style=&quot;background-color: initial;&quot;&gt;5次预警&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="273.25" y="634" width="194.5" height="49.75" as="geometry" />
+          <mxGeometry x="272.44" y="631" width="194.5" height="49.75" as="geometry" />
         </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhqzzpSfkgcuzc0EcMVR-3" target="MrdqeAQG5_k8rVTnPfZV-16">
           <mxGeometry relative="1" as="geometry" />
@@ -2567,6 +2567,12 @@
         </mxCell>
         <mxCell id="QhqzzpSfkgcuzc0EcMVR-9" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="242.44" y="634" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RY6plKlMuj3YlhBRM0Z_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RY6plKlMuj3YlhBRM0Z_-6" target="MrdqeAQG5_k8rVTnPfZV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RY6plKlMuj3YlhBRM0Z_-6" value="记录当前位姿为预警位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290.75" y="527" width="158" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
