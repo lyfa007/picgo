@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T01:22:55.126Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="aAJz_3gOL3HESsfvrREH" version="24.6.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-07-11T01:26:28.557Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="b8t_NyFPMwfnfY3MblTu" version="24.6.4" type="github" pages="18">
   <diagram name="第 1 页" id="809RYmrtKWQqntSpSi6K">
     <mxGraphModel dx="1383" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2877,7 +2877,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZbab5cqQvczWFhjiJnf-55" value="是否119/113&lt;div&gt;故障&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aZbab5cqQvczWFhjiJnf-55" value="是否119/113&lt;div&gt;故障触发&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="257" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aZbab5cqQvczWFhjiJnf-56" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
