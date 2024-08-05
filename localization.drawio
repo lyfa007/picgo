@@ -3081,7 +3081,7 @@
           <mxGeometry x="230" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oC-p09FsEvJ-xR61daHB-34" value="理论切图点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="490" width="70" height="30" as="geometry" />
+          <mxGeometry x="190" y="490" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oC-p09FsEvJ-xR61daHB-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="10" height="10" as="geometry" />
