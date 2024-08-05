@@ -3053,11 +3053,11 @@
             <mxPoint x="450" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oC-p09FsEvJ-xR61daHB-26" value="出梯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oC-p09FsEvJ-xR61daHB-26" value="出梯方向" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oC-p09FsEvJ-xR61daHB-27" value="进梯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="oC-p09FsEvJ-xR61daHB-27" value="进梯方向" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oC-p09FsEvJ-xR61daHB-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="10" height="10" as="geometry" />
@@ -3065,7 +3065,7 @@
         <mxCell id="oC-p09FsEvJ-xR61daHB-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="294.71" as="sourcePoint" />
-            <mxPoint x="180" y="294.71" as="targetPoint" />
+            <mxPoint x="200" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oC-p09FsEvJ-xR61daHB-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="1">
@@ -3078,7 +3078,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oC-p09FsEvJ-xR61daHB-33" value="进梯goal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oC-p09FsEvJ-xR61daHB-34" value="理论切图点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oC-p09FsEvJ-xR61daHB-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oC-p09FsEvJ-xR61daHB-36" value="实际切图点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oC-p09FsEvJ-xR61daHB-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="294.71" as="sourcePoint" />
+            <mxPoint x="180" y="295" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
