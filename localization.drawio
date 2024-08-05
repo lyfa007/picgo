@@ -3321,6 +3321,15 @@
         <mxCell id="0t_ChP0alwetKyDmQv8V-38" value="切图后位姿" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="490" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rLGB8aquOHsJYnn694qH-1" value="" style="endArrow=classicThin;dashed=1;html=1;rounded=0;endFill=1;strokeColor=#CC0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="530" as="sourcePoint" />
+            <mxPoint x="370" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLGB8aquOHsJYnn694qH-2" value="直接继续进梯和出梯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="530" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
