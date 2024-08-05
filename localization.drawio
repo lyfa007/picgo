@@ -3078,7 +3078,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oC-p09FsEvJ-xR61daHB-33" value="进梯goal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oC-p09FsEvJ-xR61daHB-34" value="理论切图点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="490" width="70" height="30" as="geometry" />
@@ -3094,6 +3094,15 @@
             <mxPoint x="160" y="294.71" as="sourcePoint" />
             <mxPoint x="180" y="295" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oC-p09FsEvJ-xR61daHB-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="320" as="sourcePoint" />
+            <mxPoint x="230" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC-p09FsEvJ-xR61daHB-43" value="位姿偏差" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="oC-p09FsEvJ-xR61daHB-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
