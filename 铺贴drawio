@@ -601,18 +601,6 @@
         <mxCell id="_I-4bCPr6lDAJU5zhFmw-200" value="主卫铺贴图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="422" y="1028" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_I-4bCPr6lDAJU5zhFmw-202" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="447" y="335" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_I-4bCPr6lDAJU5zhFmw-203" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="447" y="335" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_I-4bCPr6lDAJU5zhFmw-204" value="湿区下沉2cm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="662" y="263" width="78" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_I-4bCPr6lDAJU5zhFmw-206" value="干区比湿区高2cm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="189" y="258" width="101" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
