@@ -598,6 +598,9 @@
         <mxCell id="_I-4bCPr6lDAJU5zhFmw-199" value="1420" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=7;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="495" y="410" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_I-4bCPr6lDAJU5zhFmw-200" value="主卫铺贴图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="427" y="897" width="88" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
